@@ -1,5 +1,5 @@
 {
-   "Format":"2.7.3",
+   "Format":"2.8.0",
    "CustomLocations":[
       {
          "Name":"EddsWorld_Eddsworld_Village",
@@ -11,26 +11,32 @@
       },
       {
          "Name":"EddsWorld_Eddsworld_MattRoom",
-         "FromMapFIle":"Maps/Eddsworld_MattRoom.tmx"
+         "FromMapFile":"Maps/Eddsworld_MattRoom.tmx"
       }
    ],
    "Changes":[
       {
-         "ScrollTextZones": [],
-         "Id": "EddsValleyVillage",
-         "Condition": null,
-         "LocationContext": null,
-         "LocationName": "EddsWorld_Eddsworld_Village",
-         "LocationNames": [],
-         "TileArea": { "X": 0, "Y": 0, "Width": 0, "Height": 0 },
-         "ExtendedTileArea": null,
-         "MapPixelArea": {
-            "X": 124,
-            "Y": 82,
-            "Width": 10,
-            "Height": 9
-         },
-         "ScrollText": "Casa de Edd, Tom, Matt y Tord"
+         "Action": "EditData",
+         "Target": "Data/WorldMap:Default:0/MapAreas",
+         "Append": [
+            {
+               "ScrollTextZones": [],
+               "Id": "EddsValleyVillage",
+               "Condition": null,
+               "LocationContext": null,
+               "LocationName": "EddsWorld_Eddsworld_Village",
+               "LocationNames": [],
+               "TileArea": null,
+               "ExtendedTileArea": null,
+               "MapPixelArea": {
+                  "X": 124,
+                  "Y": 82,
+                  "Width": 10,
+                  "Height": 9
+               },
+               "ScrollText": "Casa de Edd, Tom, Matt y Tord"
+            }
+         ]
       },
       {
          "Action":"Load",

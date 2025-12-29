@@ -1,11 +1,10 @@
 {
-   "Name": "Eddsworld_Village",
+   "Name": "EddsValley",
    "Author": "Martiitale & DaniPraivet",
-   "Version": "1.20.0",
+   "Version": "1.0.0",
    "Description": "Adds Tom as an NPC in Stardew Valley.",
    "UniqueID": "EddsWorld",
    "MinimumApiVersion": "4.0.0",
-   "UpdateKeys": ["Nexus:21209"],
    "ContentPackFor": 
 	{
     	"UniqueID": "Pathoschild.ContentPatcher"
