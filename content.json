@@ -16,50 +16,21 @@
    ],
    "Changes":[
       {
-         "Action":"EditData",
-         "Target":"Data/WorldMap",
-         "Entries":{
-            "Default":{
-               "BaseTexture":[
-                  {
-                     "Id":"spring",
-                     "Texture":"Minimap-ew/map.png"
-                  },
-                  {
-                     "Id":"summer",
-                     "Texture":"Minimap-ew/map_summer.png"
-                  },
-                  {
-                     "Id":"fall",
-                     "Texture":"Minimap-ew/map_fall.png"
-                  },
-                  {
-                     "Id":"winter",
-                     "Texture":"Minimap-ew/map_winter.png"
-                  }
-               ],
-               "MapAreas":[
-                  {
-                     "Id":"EddsValleyVillage",
-                     "PixelArea":{
-                        "X":124,
-                        "Y":82,
-                        "Width":9,
-                        "Height":7
-                     },
-                     "WorldPositions":[]
-                  }
-               ],
-               "AdditionalProperties": {
-                  "Tooltips": {
-                     "EddsValleyHouse": {
-                        "Text":"Casa de Edd, Tom, Matt y Tord",
-                        "PixelPosition": {"X": 126, "Y": 84}
-                     }
-                  }
-               }
-            }
-         }
+         "ScrollTextZones": [],
+         "Id": "EddsValleyVillage",
+         "Condition": null,
+         "LocationContext": null,
+         "LocationName": "EddsWorld_Eddsworld_Village",
+         "LocationNames": [],
+         "TileArea": { "X": 0, "Y": 0, "Width": 0, "Height": 0 },
+         "ExtendedTileArea": null,
+         "MapPixelArea": {
+            "X": 124,
+            "Y": 82,
+            "Width": 10,
+            "Height": 9
+         },
+         "ScrollText": "Casa de Edd, Tom, Matt y Tord"
       },
       {
          "Action":"Load",
