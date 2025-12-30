@@ -1,28 +1,9 @@
-{"Changes": [
-	{"Action":"EditData",
-"Target":"Characters/schedules/Tom",
-"Entries":
 {
-	"spring": "800 Town 46 32 2 Play_guitar /1900 Saloon 4 19 1 Drink_Tom/2200 AdventureGuild 7 16 1",
-	"Mon": "700 Town 46 32 2 Play_guitar /1400 Beach 12 39 2 /1900 Saloon 4 19 1 Drink_Tom/2200 AdventureGuild 7 16 1",
-	"Tue": "700 Town 73 54 2 /1400 LeahHouse 7 7 2 Play_guitar /1800 Beach 12 39 2 /2150 AdventureGuild 7 16 1",
-	"Thu": "800 Town 22 100 2 /1400 Town 46 32 2 Play_guitar /1900 Saloon 4 19 1 Drink_Tom/2200 AdventureGuild 7 16 1",
-	"Fri": "800 SeedShop 13 20 0 /1300 SeedShop 12 23 0 /1500 Saloon 40 17 2 Drink_Tom /2100 AdventureGuild 7 16 1",
-	"Sat": "700 Town 46 32 2 Play_guitar/1500 Beach 12 39 2 /2000 AdventureGuild 7 16 1",
-	"Sun": "700 Beach 12 39 2 /1400 LeahHouse 7 7 2 Play_guitar /2000 AdventureGuild 7 16 1",
-	"marriage_Mon": "800 ArchaeologyHouse 19 5 0/2000 bed",
-	"marriage_Tue": "700 Town 46 32 2 Training \"Strings\\Characters:Spouse_Satoru_Forest\"/2000 bed",
-	"marriage_Thu": "700 Forest 43 12 2 Training \"Strings\\Characters:Spouse_Satoru_Forest\"/2000 bed",
-	"marriage_Fri": "700 Forest 43 12 2 Training \"Strings\\Characters:Spouse_Satoru_Forest\"/2000 bed",
-	"marriage_DesertFestival_1": "800 Desert 12 20 2 \"Strings\\schedules\\Satoru:DesertFestival_Satoru_marriage\"/2000 bed",
-	"DesertFestival_1": "830 Desert 12 20 2 \"Strings\\schedules\\Satoru:DesertFestival_Satoru_y1\"/2000 AdventureGuild 7 16 1",
-	"marriage_DesertFestival_2": "800 Desert 11 49 1 \"Strings\\schedules\\Satoru:DesertFestival_Satoru_marriage_y2\"/2000 bed",
-	"DesertFestival_2": "830 Desert 11 49 1 \"Strings\\schedules\\Satoru:DesertFestival_Satoru_y2\"/2000 AdventureGuild 7 16 1",
-	"winter_17": "900 Forest 43 12 2 Training\"Strings\\Characters:Spouse_Satoru_Forest\"/1430 Beach 27 34 2 \"Strings\\schedules\\Satoru:winter_17.000\"/2300 AdventureGuild 7 16 1",
-	"marriage_winter_17": "900 Forest 43 12 2 Training\"Strings\\Characters:Spouse_Satoru_Forest\"/1430 Beach 27 34 2 \"Strings\\schedules\\Satoru:marriage_winter_17.000\"/2300 bed",
-	"rain":"1400 LeahHouse 7 7 2 Play_guitar /1700 Beach 12 39 2 /2200 AdventureGuild 7 16 1",
-	"rain2":"1400 LeahHouse 7 7 2 Play_guitar /1800 Saloon 4 19 1 Drink_Tom/2200 AdventureGuild 7 16 1"
-
-}
-}]
+   "Changes":[
+      {
+         "Action":"EditData",
+         "Target":"Characters/schedules/Tom",
+         "Entries":{}
+      }
+   ]
 }
