@@ -28,7 +28,7 @@ Mod de Stardew Valley que introduce a los personajes de la web-serie Eddsworld; 
 <img src="https://github.com/Martiitale/EddsValley/blob/main/GUIDE%20for%20his%20likes%20and%20dislikes/Donate.png?raw=true">
 
 
-Apoya la creación del mod en Ko-Fi o Patreon
+(https://ko-fi.com/martiitale)
 
 
 
