@@ -69,10 +69,6 @@
          ]
       },
       {
-         "Action":"Include",
-         "FromFile":"assets/sound/sound.json"
-      },
-      {
          "LogName":"NPC Manifestation",
          "Action":"Include",
          "FromFile":"assets/disposition/Disposition.json"
@@ -83,15 +79,6 @@
          "Target":"Data/NPCGiftTastes",
          "Entries":{
             "Tom":"Ostras. Me has alegrado el dia, gracias, @./769 220 611 795 213 575 158 162/Wow un regalo, gracias./128 117 234 898 -15/Esto... Mejor habertelo guardado.../164 72 154 155 126/Que asco. No lo qiero volver a ver./800 899 203/Gracias, muy bonito de tu parte./-4/ "
-         }
-      },
-      {
-         "Action":"EditData",
-         "Target":"Characters/Dialogue/Tom",
-         "Entries":{
-            "give_flowersA":"Well, @, I have to say, I've been hoping you'd ask. I'd love to be your boyfriend. Let's make this official.$7",
-            "give_flowersB":"These flowers?$6#$b#Of course! I'm happy to become your boyfriend!$1",
-            "give_pendant":"Whoa, @, didn't see that coming!$6#$b#I'll marry you, no doubt about it, sweetheart.$8"
          }
       },
       {
