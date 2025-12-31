@@ -40,6 +40,22 @@
       },
       {
          "Action":"Load",
+         "Target":"Maps/SpouseRoom_Tom",
+         "FromFile":"Maps/Tom_SpouseRoom.tmx"
+      },
+      {
+         "Action":"EditData",
+         "Target":"Data/Characters",
+         "Entries":{
+            "Tom": {
+               "SpouseRoom": {
+                  "MapAsset":"Maps/SpouseRoom_Tom"
+               }
+            }
+         }
+      },
+      {
+         "Action":"Load",
          "Target":"LooseSprites/map",
          "FromFile":"Minimap-ew/map.png"
       },
