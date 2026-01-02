@@ -124,6 +124,98 @@
             ]
         },
         {
+            "LogName": "Tom Desert Festival 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring15",
+            "TextOperations": [
+                { "Operation" : "Append",
+                  "Target": ["Entries", "Set-Up_additionalCharacters"],
+                  "Value": "Tom 12 44 2",
+                  "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Desert Festival 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring16",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Desert Festival 3",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring17",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 12 44 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
             "LogName": "Tom Flower Festival",
             "Action": "EditData",
             "Target": "Data/Festivals/spring24",
@@ -248,6 +340,68 @@
             ]
         },
         {
+            "LogName": "Tom Trout Derby 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer20",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Trout Derby 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer21",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 85 50 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
             "LogName": "Tom Dance of the Moonlight Jellies",
             "Action": "EditData",
             "Target": "Data/Festivals/summer28",
@@ -274,6 +428,37 @@
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
                     "Value": "Tom 26 36 3",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Stardew Valley Fair",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 25 57 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 25 57 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 25 57 2",
+                    "Delimiter": "/"
+                },
+                {                    
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 25 57 2",
                     "Delimiter": "/"
                 }
             ]
@@ -456,6 +641,107 @@
                     "Operation": "Append", 
                     "Target": ["Entries","Set-Up_additionalCharacters"], 
                     "Value": "Tom 38 35 1", 
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom SquidFest 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter12",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom SquidFest 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter13",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                },
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
+                    "Value": "Tom 24 12 2",
+                    "Delimiter": "/"
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Night Market 1",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter15",
+            "TextOperations": [
+                { 
+                    "Operation": "Append", 
+                    "Target": ["Entries","Set-Up_additionalCharacters"], 
+                    "Value": "Tom 38 35 1", 
+                    "Delimiter": "/" 
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Night Market 2",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter16",
+            "TextOperations": [
+                { 
+                    "Operation": "Append", 
+                    "Target": ["Entries","Set-Up_additionalCharacters"], 
+                    "Value": "Tom 38 35 1", 
+                    "Delimiter": "/" 
+                }
+            ]
+        },
+        {
+            "LogName": "Tom Night Market 3",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter17",
+            "TextOperations": [
+                { 
+                    "Operation": "Append", 
+                    "Target": ["Entries","Set-Up_additionalCharacters"], 
+                    "Value": "Tom 38 35 1", 
                     "Delimiter": "/" 
                 }
             ]
@@ -485,8 +771,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring13",
             "Entries": {
-                "Tom": "Como estas gupisimo, yo aqui pillando huevo s$3",
-                "Tom_spouse": "Si lo cuentas...$1#Si lo cuentas te rajo$4"
+                "Tom": "¿Cómo estás, @? No quiero competir con los niños por unos huevos, pero sé de alguien que está más que encantado.$1",
+                "Tom_spouse": "La última vez no quería competir.$1#Quizás este año cambio de opinión.$1"
             }
         },
         {
@@ -494,8 +780,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring15",
             "Entries": {
-                "Tom": "El desierto es mi hogar, @.$1#Me encanta ver a toda esta gente perdida por aqui.$0#Aunque no entiendo muy bien qué hacen...$2",
-                "Tom_spouse": "I love seeing everyone enjoying the desert, @.$1#It's such a special place to me.$0#I'm glad we could share it together.$1"
+                "Tom": "El desierto es agotador, @.$1#Me encanta ver a toda esta gente perdida por aquí.$0#Aunque no entiendo muy bien qué hacen...$0",
+                "Tom_spouse": "¿Crees que alguien será devorado por las arenas movedizas este año?$1"
             }
         },
         {
@@ -503,8 +789,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring16",
             "Entries": {
-                "Tom": "El desierto es mi hogar, @.$1#Me encanta ver a toda esta gente perdida por aqui.$0#Aunque no entiendo muy bien qué hacen...$2",
-                "Tom_spouse": "I love seeing everyone enjoying the desert, @.$1#It's such a special place to me.$0#I'm glad we could share it together.$1"
+                "Tom": "Tendría que haberme traído un cubo y jabón para lavar toda la ropa sudada; ¿tú tienes alguno?$1",
+                "Tom_spouse": "Podríamos llenar piscinas enteras con todo lo que hemos sudado, aunque no creo que fuese muy refrescante bañarnos en eso.$1"
             }
         },
         {
@@ -512,8 +798,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring17",
             "Entries": {
-                "Tom": "El desierto es mi hogar, @.$1#Me encanta ver a toda esta gente perdida por aqui.$0#Aunque no entiendo muy bien qué hacen...$2",
-                "Tom_spouse": "I love seeing everyone enjoying the desert, @.$1#It's such a special place to me.$0#I'm glad we could share it together.$1"
+                "Tom": "Pensaba que podría ser como en las películas.$1#Ver cómo alguien se pincha por todas partes con un cactus.$1#Podría haber sido Tord.$0",
+                "Tom_spouse": "¿Quieres que nos llevemos un camello como recuerdo a casa?$1"
             }
         },
         {
@@ -521,8 +807,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/spring24",
             "Entries": {
-                "Tom": "Las flores son bonitas, supongo...$1#Aunque no entiendo muy bien para qué sirven.$2",
-                "Tom_spouse": "Flowers are... nice, I guess.$1#Not really my thing, but I'm happy to be here with you, @.$1"
+                "Tom": "Las flores son bonitas, supongo...$1#Aunque no entiendo muy bien para qué sirven.$0",
+                "Tom_spouse": "¿Qué flores prefieres? No es por nada en específico, pero tú dímelo aun así..$4"
             }
         },
         {
@@ -530,8 +816,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/summer11",
             "Entries": {
-                "Tom": "Que poca ganas de hablar con la gente.$0# Bueno al menos Abi me entiende.$1",   
-                "Abigail": "Cómo me cansa el agetreo de la gente... $1No te pasa, @?"
+                "Tom": "Qué pocas ganas de hablar con la gente.$0# Bueno, al menos Abigail me entiende.$1",   
+                "Tom_spouse": "Un año de estos alguien pondrá algo asqueroso en la sopa y nos tendremos que hacer los sorprendidos de que sepa horrible.$1"
             }
         },
         {
@@ -539,7 +825,7 @@
             "Action": "EditData",
             "Target": "Data/Festivals/summer20",
             "Entries": {
-                "Tom": "Pescar es aburrido, pero al menos hay menos gente molesta por aqui.$1#Aunque no entiendo muy bien qué sentido tiene esto...$2",
+                "Tom": "Pescar es mejor de lo que la gente cree, al menos no hay menos gente molesta por aquí.$1#Aunque no entiendo muy bien qué sentido tiene esto...$2",
                 "Tom_spouse": "Fishing isn't really my thing, @.$1#But I'm glad we could share this time together.$1"
             }
         },
@@ -549,7 +835,7 @@
             "Target": "Data/Festivals/summer21",
             "Entries": {
                 "Tom": "Pescar es aburrido, pero al menos hay menos gente molesta por aqui.$1#Aunque no entiendo muy bien qué sentido tiene esto...$2",
-                "Tom_spouse": "Fishing isn't really my thing, @.$1#But I'm glad we could share this time together.$1"
+                "Tom_spouse": "Un día de estos, seré capaz de pescar una ballena…$0#Otra vez...$1"
             }
         },
         {
@@ -557,8 +843,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/summer28",
             "Entries": {
-                "Tom": "Ver las medusas flotar se me hace raro. Es como si me imnotizaran.$4",
-                "Tom_spouse": ""
+                "Tom": "Ver las medusas flotar se me hace raro. Es como si me hipnotizaran.$1",
+                "Tom_spouse": "Su brillo es precioso.$1#Como tus ojos.$4#¿Qué pasa? A veces soy cariñoso, aunque creas que no.$1"
             }
         },
         {
@@ -567,7 +853,7 @@
             "Target": "Data/Festivals/fall16",
             "Entries": {
                 "Tom": "Vaya follon de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
-                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the fair together.$1"
+                "Tom_spouse": "No soy muy fan de las multitudes, @.$1#$b#Demasiado ruido, demasiada gente.$1#$b#Pero venir contigo lo hace bastante más soportable.$1#$b#Supongo que así hasta me gusta un poco.$1"
             }
         },
         {
@@ -575,8 +861,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/fall27",
             "Entries": {
-                "Tom": "Me a dado un paro cardico ese televisor.$8#$b#Esto? Es que me lo paso bien disfrazandome.$8#Te gusta?$9",
-                "Tom_spouse": "If you find yourself getting spooked, @, you know where to find me, love.$7#I'll always keep you safe.$1"
+                "Tom": "Casi me da un paro cardíaco con ese televisor.$8#$b#Y eso que ya sabía que estaba ahí.$8#$b#¿Esto?$9#$b#Me gusta disfrazarme… nadie espera nada de ti si llevas máscara.$9",
+                "Tom_spouse": "Si algo te asusta, quédate cerca mío, @.$1#$b#No me molesta.$1#$b#Además, con tanta gente rara alrededor…$7#$b#Prefiero asegurarme de que estés bien.$1"
             }
         },
         {
@@ -584,8 +870,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter8",
             "Entries": {
-                "Tom": "Dialogo promedio y bla bla bla$1",
-                "Tom_spouse": "Dialogo promedio y bla bla bla$1, @.$7#Dialogo promedio y bla bla bla$1"
+                "Tom": "Todo esto del hielo me pone nervioso.$1#$b#Frío, gente gritando, y alguien seguro se va a caer.$1#$b#No sé cómo lo disfrutan tanto.$1",
+                "Tom_spouse": "No es mi tipo de festival, @.$1#$b#Quiero patinar contigo.$4"
             }
         },
         {
@@ -593,8 +879,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter12",
             "Entries": {
-                "Tom": "No entiendo muy bien qué sentido tiene esto de lanzar calamares...$2#Pero al menos hay menos gente molesta por aqui.$1",
-                "Tom_spouse": "I don't really get the whole squid tossing thing, @.$1#But I'm glad we could spend this time together.$1"
+                "Tom": "No entiendo muy bien qué sentido tiene lanzar calamares.$2#$b#Pero supongo que hay tradiciones peores.$1",
+                "Tom_spouse": "Todavía no entiendo lo de lanzar calamares, @.$1#$b#No creo que quiera entenderlo.$1#$b#Pero pasar el rato contigo aquí…$1#$b#Eso sí me gusta.$1"
             }
         },
         {
@@ -602,8 +888,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter13",
             "Entries": {
-                "Tom": "No entiendo muy bien qué sentido tiene esto de lanzar calamares...$2#Pero al menos hay menos gente molesta por aqui.$1",
-                "Tom_spouse": "I don't really get the whole squid tossing thing, @.$1#But I'm glad we could spend this time together.$1"
+                "Tom": "No entiendo muy bien qué sentido tiene lanzar calamares.$2#$b#Pero supongo que hay tradiciones peores.$1",
+                "Tom_spouse": "Quiero patinar contigo.$1#Podemos cogernos de la mano por si pierdes el equilibrio.$4"
             }
         },
         {
@@ -611,8 +897,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter15",
             "Entries": {
-                "Tom": "Menuda aglomeracion de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
-                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the market together.$1"
+                "Tom": "Este lugar parece una trampa para carteras.$2#$b#Luces bonitas, música rara y gente comprando cosas que no necesita.$1#$b#Admito que… tiene su encanto.$1",
+                "Tom_spouse": "Normalmente huiría de un sitio así.$1#$b#Pero caminar contigo entre las luces, sin prisa…$1#$b#Hace que no me moleste quedarme un rato más.$1"
             }
         },
         {
@@ -620,8 +906,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter16",
             "Entries": {
-                "Tom": "Menuda aglomeracion de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
-                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the market together.$1"
+                "Tom": "Hoy está menos caótico que ayer.$1#$b#O tal vez ya me rendí.$1#$b#Matt seguramente ya se ha gastado todo.$2",
+                "Tom_spouse": "Me gusta este día más.$1#$b#Ya sé por dónde no pasar y contigo al lado todo se siente más… manejable.$1"
             }
         },
         {
@@ -629,8 +915,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter17",
             "Entries": {
-                "Tom": "Menuda aglomeracion de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
-                "Tom_spouse": "I'm not much for crowds, @.$1#But I'm glad we could experience the market together.$1"
+                "Tom": "Último día, por fin.$1#$b#No estuvo tan mal… pero tampoco lo voy a extrañar.$1",
+                "Tom_spouse": "Último día.$1#$b#Un poco de pena, en realidad.$1#$b#No por el mercado…$1#$b#Sino porque estos momentos contigo se pasan rápido.$1"
             }
         },
         {
@@ -638,8 +924,8 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter25",
             "Entries": {
-                "Tom": "Ese pollo tiene un pinta.$0#$b#Perdona, que tal las navidades, @?$1#Si no hubiera nadie me lanzaba a por el.$1",
-                "Tom_spouse": "Happy Winter Star, my love. This festival always reminds me of how lucky I am to have you in my life.$7#I love you.$1"
+                "Tom": "Hay demasiada comida para un solo salón.$0#$b#Y demasiada gente fingiendo que no quiere repetir.$1",
+                "Tom_spouse": "Nunca fui muy fan de estas celebraciones.$7#$b#Pero ahora tienen sentido.$1#$b#Casa, calor, comida…$1#$b#Y tú.$1"
             }
         }
     ]
