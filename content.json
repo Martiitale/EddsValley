@@ -115,17 +115,20 @@
       },
       {
          "LogName":"Schedule",
-         "Action":"Include",
+         "Action":"Load",
+         "Target":"Characters/schedules/Tom",
          "FromFile":"assets/schedules/schedule.json"
       },
       {
          "LogName":"Dialogue",
-         "Action":"Include",
+         "Action":"Load",
+         "Target": "Characters/dialogue/Tom",
          "FromFile":"assets/dialogue/Tom_dialogue.json"
       },
       {
          "LogName":"Marriage Dialogue",
-         "Action":"Include",
+         "Action":"Load",
+         "Target": "Characters/marriageDialogue/Tom",
          "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
       },
       {
