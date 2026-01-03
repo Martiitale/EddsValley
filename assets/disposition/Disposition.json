@@ -16,7 +16,7 @@
                "Optimism":"Negative",
                "CanBeRomanced":"True",
                "IntroductionsQuest":"True",
-               "SpouseRoom":{ "MapAsset":"Maps/Tom_spouseRoom"},
+               "SpouseRoom":{},
                "Home":[
                   {
                      "Id":"Default",

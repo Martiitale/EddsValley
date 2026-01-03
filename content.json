@@ -39,9 +39,15 @@
          ]
       },
       {
-         "Action":"Load",
-         "Target":"Maps/Tom_spouseRoom",
-         "FromFile":"Maps/Tom_spouseRoom.tmx"
+         "Action":"EditMap",
+         "Target":"Maps/spouseRooms",
+         "FromFile":"Maps/Tom_spouseRoom.tmx",
+         "ToArea": {
+            "X": 18,
+            "Y": 18,
+            "Width": 6,
+            "Height": 9
+         }
       },
       {
          "Action":"Load",
