@@ -852,7 +852,7 @@
             "Action": "EditData",
             "Target": "Data/Festivals/fall16",
             "Entries": {
-                "Tom": "Vaya follon de gente...$2#Pero al menos hay menos niños gritones por aqui.$1",
+                "Tom": "Madre mía, cuánta gente hay…$2#Pero al menos hay menos niños gritones por aqui.$1",
                 "Tom_spouse": "No soy muy fan de las multitudes, @.$1#$b#Demasiado ruido, demasiada gente.$1#$b#Pero venir contigo lo hace bastante más soportable.$1#$b#Supongo que así hasta me gusta un poco.$1"
             }
         },
@@ -861,7 +861,7 @@
             "Action": "EditData",
             "Target": "Data/Festivals/fall27",
             "Entries": {
-                "Tom": "Casi me da un paro cardíaco con ese televisor.$8#$b#Y eso que ya sabía que estaba ahí.$8#$b#¿Esto?$9#$b#Me gusta disfrazarme… nadie espera nada de ti si llevas máscara.$9",
+                "Tom": "Casi me da un paro cardíaco con ese televisor.$8#$b#Y eso que ya sabía que estaba ahí.$8#$b#¿Esto?$9#$b#Me gusta disfrazarme. Nadie espera nada de ti si llevas un disfraz.$9",
                 "Tom_spouse": "Si algo te asusta, quédate cerca mío, @.$1#$b#No me molesta.$1#$b#Además, con tanta gente rara alrededor…$7#$b#Prefiero asegurarme de que estés bien.$1"
             }
         },
@@ -870,7 +870,7 @@
             "Action": "EditData",
             "Target": "Data/Festivals/winter8",
             "Entries": {
-                "Tom": "Todo esto del hielo me pone nervioso.$1#$b#Frío, gente gritando, y alguien seguro se va a caer.$1#$b#No sé cómo lo disfrutan tanto.$1",
+                "Tom": "Todo esto del hielo me pone nervioso.$0#$b#Frío, gente gritando, y alguien seguro se va a caer.$1#$b#No sé cómo lo disfrutan tanto.$1",
                 "Tom_spouse": "No es mi tipo de festival, @.$1#$b#Quiero patinar contigo.$4"
             }
         },
