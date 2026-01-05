@@ -1,7 +1,7 @@
 {
    "Name": "EddsValley",
    "Author": "Martiitale & DaniPraivet",
-   "Version": "1.0.0",
+   "Version": "0.1.0",
    "Description": "Adds Tom as an NPC in Stardew Valley.",
    "UniqueID": "EddsWorld",
    "MinimumApiVersion": "4.0.0",
