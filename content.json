@@ -16,29 +16,6 @@
    ],
    "Changes":[
       {
-         "Action": "EditData",
-         "Target": "Data/WorldMap:Default:0/MapAreas",
-         "Append": [
-            {
-               "ScrollTextZones": [],
-               "Id": "EddsValleyVillage",
-               "Condition": null,
-               "LocationContext": null,
-               "LocationName": "EddsWorld_Eddsworld_Village",
-               "LocationNames": [],
-               "TileArea": null,
-               "ExtendedTileArea": null,
-               "MapPixelArea": {
-                  "X": 124,
-                  "Y": 82,
-                  "Width": 10,
-                  "Height": 9
-               },
-               "ScrollText": "Casa de Edd, Tom, Matt y Tord"
-            }
-         ]
-      },
-      {
          "Action":"EditMap",
          "Target":"Maps/spouseRooms",
          "FromFile":"Maps/Tom_spouseRoom.tmx",
