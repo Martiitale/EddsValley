@@ -14,19 +14,19 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters"],
-                    "Value": "Tom 19 24 2",
+                    "Value": "Tom 44 15 3",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
-                    "Value": "Tom 19 24 2",
+                    "Value": "Tom 73 9 0",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
-                    "Value": "Tom 19 24 2",
+                    "Value": "Tom 19 6 0",
                     "Delimiter": "/"
                 }
             ]

@@ -8,25 +8,25 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters"],
-                    "Value": "Tom 66 43 1",
+                    "Value": "Tom 65 43 1",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Main-Event_additionalCharacters"],
-                    "Value": "Tom 34 21 1",
+                    "Value": "Tom 34 25 0",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
-                    "Value": "Tom 66 43 1",
+                    "Value": "Tom 63 23 1",
                     "Delimiter": "/"
                 },
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Main-Event_additionalCharacters_y2"],
-                    "Value": "Tom 34 21 1",
+                    "Value": "Tom 87 40 0",
                     "Delimiter": "/"
                 }
             ]
