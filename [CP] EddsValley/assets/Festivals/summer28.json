@@ -14,7 +14,7 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters"],
-                    "Value": "Tom 13 35 3",
+                    "Value": "Tom 13 35 1",
                     "Delimiter": "/"
                 },
                 {
