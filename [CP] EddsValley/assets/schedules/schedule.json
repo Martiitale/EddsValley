@@ -1,6 +1,6 @@
 {
    "spring": "620 EddsWorld_Eddsworld_House 27 6 /800 EddsWorld_Eddsworld_Village 7 11 2 Play_guitar /1300 Saloon 4 19 1 Drink_Tom /1800 EddsWorld_Eddsworld_House 27 6",
-   "summer": "620 EddsWorld_Eddsworld_House 27 6 /800 Beach 46 26 2 /1400 Beach 22 24 Fishing_Tom /2000 EddsWorld_Eddsworld_House 27 6",
+   "summer": "620 EddsWorld_Eddsworld_House 27 6 /800 Beach 46 24 2 /1400 Beach 22 24 Fishing_Tom /2000 EddsWorld_Eddsworld_House 27 6",
    "fall": "620 EddsWorld_Eddsworld_House 27 6 1 /1000 ArchaeologyHouse 19 5 0 /1400 Town 25 23 /2000 EddsWorld_Eddsworld_House 27 6 \"assets\\dialogue\\Tom_dialogue:Mon8\"",
    "winter": "620 EddsWorld_Eddsworld_House 27 6 /900 Forest 110 82 3 /1700 Saloon 40 17 Drink_Tom /2100 EddsWorld_Eddsworld_House 27 6",
    "Mon": "620 EddsWorld_Eddsworld_House 27 6 /700 Town 46 32 2 Play_guitar /1400 Beach 12 39 2 Fishing_Tom /1900 Saloon 4 19 1 Drink_Tom/2200 EddsWorld_Eddsworld_House 27 6",
