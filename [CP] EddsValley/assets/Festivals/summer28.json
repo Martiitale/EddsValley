@@ -8,7 +8,7 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters"],
-                    "Value": "Tom 86 33 3",
+                    "Value": "Tom 88 35 3",
                     "Delimiter": "/"
                 },
                 {
