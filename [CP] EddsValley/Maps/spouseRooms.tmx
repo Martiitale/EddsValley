@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="100" height="27" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="1">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="100" height="27" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="4">
  <tileset firstgid="1" name="indoor" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
   <image source="townInterior" width="512" height="1088"/>
  </tileset>
@@ -9,13 +9,13 @@
  <tileset firstgid="2241" name="sewer" tilewidth="16" tileheight="16" tilecount="0" columns="8">
   <image source="SewerTiles" width="128" height="176"/>
  </tileset>
- <tileset firstgid="2313" name="2" tilewidth="16" tileheight="16" tilecount="1312" columns="32">
+ <tileset firstgid="2241" name="2" tilewidth="16" tileheight="16" tilecount="1312" columns="32">
   <image source="townInterior_2" width="512" height="656"/>
  </tileset>
  <layer id="1" name="Back" width="30" height="27">
   <data encoding="csv">
-46,46,46,46,46,46,3399,3399,3399,3399,3399,3399,267,267,267,267,267,267,206,206,206,206,206,206,0,0,0,0,0,0,
-78,78,78,78,78,78,3431,3431,3431,3431,3431,3431,267,267,267,267,267,267,206,206,206,206,206,206,0,0,0,0,0,0,
+46,46,46,46,46,46,3327,3327,3327,3327,3327,3327,267,267,267,267,267,267,206,206,206,206,206,206,0,0,0,0,0,0,
+78,78,78,78,78,78,3359,3359,3359,3359,3359,3359,267,267,267,267,267,267,206,206,206,206,206,206,0,0,0,0,0,0,
 99,99,110,110,99,99,107,107,107,107,107,107,99,99,99,99,99,99,232,232,233,233,233,233,0,0,0,0,0,0,
 575,576,575,576,575,576,605,508,605,605,605,508,575,576,575,576,575,576,200,201,200,201,200,201,0,0,0,0,0,0,
 607,608,510,511,512,640,636,540,636,637,636,540,607,1661,1662,1663,1664,607,232,233,446,447,448,233,0,0,0,0,0,0,
@@ -134,8 +134,24 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <objectgroup id="5" name="Back" visible="0"/>
- <objectgroup id="6" name="Buildings" visible="0"/>
- <objectgroup id="7" name="Paths" visible="0"/>
- <objectgroup id="8" name="Front" visible="0"/>
+ <objectgroup id="5" name="Back"/>
+ <objectgroup id="6" name="Buildings">
+  <object id="1" name="TileData" x="15.5625" y="79.8125" width="16" height="16">
+   <properties>
+    <property name="Action" value="Dialogue El oso de peluche de Tom."/>
+   </properties>
+  </object>
+  <object id="2" name="TileData" x="31.8125" y="31.6875" width="32.25" height="16">
+   <properties>
+    <property name="Action" value="Dialogue Una jaula. Dentro hay un pequeño hámster blanco corriendo en su rueda."/>
+   </properties>
+  </object>
+  <object id="3" name="TileData" x="79.9375" y="32.1875" width="16" height="31.5">
+   <properties>
+    <property name="Action" value="Dialogue El preciado bajo de Tom, Susan. Insistió en ponerlo junto a la cama de matrimonio un largo tiempo."/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="Paths"/>
+ <objectgroup id="8" name="Front"/>
 </map>
