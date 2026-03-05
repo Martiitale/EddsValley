@@ -209,6 +209,11 @@
          "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
       },
       {
+      "LogName": "Movie Reactions",
+      "Action": "Include",
+      "FromFile": "assets/dialogue/Tom_movie.json"
+      },
+      {
          "LogName":"Festivals Data - Base",
          "Action":"Include",
          "FromFile":"assets/Festivals/festivals.json"

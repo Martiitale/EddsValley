@@ -1,0 +1,215 @@
+{
+   "Changes": [
+      {
+         "LogName": "Movie Reactions - Tom",
+         "Action": "EditData",
+         "Target": "Data/MoviesReactions",
+         "Entries": {
+            "Tom": {
+               "Tags": [],
+               "Reactions": [
+                  {
+                     "SpecialResponses": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Hace rato que no venía al cine.$0#$b#Matt insistió bastante.$1"
+                        },
+                        "DuringMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "(Tom mira la pantalla en silencio, apenas reaccionando.)$0"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Bueno.$0#$b#No fue una pérdida total de tiempo.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": []
+                  },
+                  {
+                     "SpecialResponses": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Edd habló tanto de esta película que me cansé antes de empezar.$0#$b#Veamos.$1"
+                        },
+                        "DuringMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "…$0#$b#Ok, eso no me lo esperaba.$2"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "No estuvo mal.$0#$b#Pero no pienso verla otra vez.$1"
+                        }
+                     },
+                     "Whitelist": ["spring_movie_0"],
+                     "Blacklist": []
+                  },
+                  {
+                     "SpecialResponses": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Matt diría que esta es \"para toda la familia\".$0#$b#Nunca confíes en eso.$1"
+                        },
+                        "DuringMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "(Tom se reclina un poco en el asiento, más tranquilo.)$0"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Supongo que estuvo bien.$0#$b#Nadie gritó, eso suma.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": [],
+                     "Tags": ["family"]
+                  },
+                  {
+                     "SpecialResponses": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Dicen que es graciosa.$0#$b#Eso me pone nervioso.$1"
+                        },
+                        "DuringMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "…$0#$b#Ok, eso sí fue estúpido.$1"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Me reí más de lo que esperaba.$0#$b#No se lo digas a nadie.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": [],
+                     "Tags": ["comedy"]
+                  },
+                  {
+                     "SpecialResponses": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "No soy fan del terror.$0#$b#Pero ya estamos aqui.$1"
+                        },
+                        "DuringMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "…$0#$b#Eso fue innecesario.$2"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "No voy a dormir bien hoy.$0#$b#Gracias por eso.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": [],
+                     "Tags": ["horror"]
+                  },
+                  {
+                     "SpecialResponses": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Tord dijo que esta era empalagosa.$0#$b#Probablemente tenga razón.$1"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Bueno.$0#$b#No fue tan horrible.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": [],
+                     "Tags": ["love"]
+                  },
+                  {
+                     "LikeMovie": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Escuché cosas decentes de esta.$0#$b#Eso ya es mucho.$1"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Sí.$0#$b#Me gustó.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": []
+                  },
+                  {
+                     "DislikeMovie": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "No habría elegido esta.$0#$b#Pero confío en ti.$1"
+                        },
+                        "DuringMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "…$0#$b#Ajá.$2"
+                        },
+                        "AfterMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "No fue lo mío.$0#$b#Pero valió la pena venir contigo.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": []
+                  },
+                  {
+                     "AlreadySeen": true,
+                     "SpecialResponses": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Esta ya la vi con Matt.$0#$b#Habló durante toda la película.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": [],
+                     "Tags": ["love"]
+                  },
+                  {
+                     "AlreadySeen": true,
+                     "LikeMovie": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "La vi antes con Edd.$0#$b#Se rió en partes rarísimas.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": []
+                  },
+                  {
+                     "AlreadySeen": true,
+                     "DislikeMovie": {
+                        "BeforeMovie": {
+                           "ResponsePoint": null,
+                           "Script": null,
+                           "Text": "Sí, esta ya la vi.$0#$b#No mejoró.$1"
+                        }
+                     },
+                     "Whitelist": [],
+                     "Blacklist": []
+                  }
+               ]
+            }
+         }
+      }
+   ]
+}
