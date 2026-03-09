@@ -65,23 +65,23 @@
 </data>
  </layer>
  <objectgroup id="5" name="Back"/>
+ <objectgroup id="7" name="Paths"/>
+ <objectgroup id="8" name="Front"/>
  <objectgroup id="6" name="Buildings">
-  <object id="3" name="TileData" x="15.875" y="79.875" width="16" height="16">
+  <object id="3" name="TileData" x="16.4205" y="96.2386" width="16" height="16">
    <properties>
     <property name="Action" value="Dialogue El oso de peluche de Tom."/>
    </properties>
   </object>
-  <object id="4" name="TileData" x="32.125" y="31.75" width="32.25" height="16">
+  <object id="4" name="TileData" x="32.125" y="47.3864" width="32.25" height="16">
    <properties>
     <property name="Action" value="Dialogue Una jaula. Dentro hay un pequeño hámster blanco corriendo en su rueda."/>
    </properties>
   </object>
-  <object id="5" name="TileData" x="80.25" y="32.25" width="16" height="31.5">
+  <object id="5" name="TileData" x="80.25" y="64.0682" width="16" height="31.5">
    <properties>
     <property name="Action" value="Dialogue El preciado bajo de Tom, Susan. Insistió en ponerlo junto a la cama de matrimonio un largo tiempo."/>
    </properties>
   </object>
  </objectgroup>
- <objectgroup id="7" name="Paths"/>
- <objectgroup id="8" name="Front" visible="0"/>
 </map>
