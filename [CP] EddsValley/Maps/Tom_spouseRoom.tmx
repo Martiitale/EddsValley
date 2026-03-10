@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="6" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="6">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="6" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="9">
  <tileset firstgid="1" name="indoor" tilewidth="16" tileheight="16" tilecount="2176" columns="32">
   <image source="townInterior" width="512" height="1088"/>
  </tileset>
  <tileset firstgid="2177" name="p" tilewidth="16" tileheight="16" tilecount="64" columns="4">
   <image source="paths" width="64" height="256"/>
  </tileset>
- <tileset firstgid="2241" name="sewer" tilewidth="16" tileheight="16" tilecount="0" columns="8">
-  <image source="SewerTiles" width="128" height="176"/>
+ <tileset firstgid="2241" name="sewer" tilewidth="16" tileheight="16" tilecount="88" columns="8">
+  <image source="SewerTiles.png" width="128" height="176"/>
  </tileset>
- <tileset firstgid="2241" name="2" tilewidth="16" tileheight="16" tilecount="1312" columns="32">
+ <tileset firstgid="2329" name="2" tilewidth="16" tileheight="16" tilecount="1312" columns="32">
   <image source="townInterior_2" width="512" height="656"/>
  </tileset>
  <layer id="1" name="Back" width="6" height="9">
@@ -68,19 +68,9 @@
  <objectgroup id="7" name="Paths"/>
  <objectgroup id="8" name="Front"/>
  <objectgroup id="6" name="Buildings">
-  <object id="3" name="TileData" x="16.4205" y="96.2386" width="16" height="16">
+  <object id="8" x="42" y="38.9091">
    <properties>
-    <property name="Action" value="Dialogue El oso de peluche de Tom."/>
-   </properties>
-  </object>
-  <object id="4" name="TileData" x="32.125" y="47.3864" width="32.25" height="16">
-   <properties>
-    <property name="Action" value="Dialogue Una jaula. Dentro hay un pequeño hámster blanco corriendo en su rueda."/>
-   </properties>
-  </object>
-  <object id="5" name="TileData" x="80.25" y="64.0682" width="16" height="31.5">
-   <properties>
-    <property name="Action" value="Dialogue El preciado bajo de Tom, Susan. Insistió en ponerlo junto a la cama de matrimonio un largo tiempo."/>
+    <property name="Action" value="Dialogue JDFSKJSKFSDKJSDJ HABIOTACION SOLA"/>
    </properties>
   </object>
  </objectgroup>
