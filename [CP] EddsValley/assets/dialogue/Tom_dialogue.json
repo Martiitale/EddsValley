@@ -13,7 +13,7 @@
    "RejectBouquet_AlreadyAccepted_Married": "…¿Flores?$1#$b#@, estamos casados.$1#$b#No necesitas sobornarme para que me quede.$1",
    "RejectBouquet_AlreadyAccepted": "Eh, espera.$6#$b#Ya acepté salir contigo.$1#$b#No hace falta repetir la escena una y otra vez.$1",
    "RejectBouquet_Divorced": "No.$0#$b#Ya intentamos eso una vez.$2#$b#Prefiero no repetir la experiencia.$6",
-   "RejectBouquet_VeryLowHearts": "Esto es… inesperado.$6#$b#Apenas nos conocemos.$0#$b#Tal vez primero hablemos más antes de saltar a esto.$0",
+   "RejectBouquet_VeryLowHearts": "Esto es inesperado.$6#$b#Apenas nos conocemos.$0#$b#Tal vez primero hablemos más antes de saltar a esto.$0",
    "RejectBouquet_LowHearts": "No estoy seguro de que estemos en ese punto.$0#$b#No es nada personal.$1#$b#Solo… se siente demasiado pronto.$0",
    "RejectBouquet": "…¿Un ramo?$6#$b#No voy a mentir, no esperaba esto.$0#$b#Pero ahora mismo no puedo decir que sí.$0",
    "give_flowers2":"¿Estas flores son para mí?$5#$b#@, que sepas que me encantaría ser tu pareja.$4",
