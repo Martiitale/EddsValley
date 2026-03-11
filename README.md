@@ -24,6 +24,7 @@ Mod de Stardew Valley que introduce a los personajes de la web-serie Eddsworld; 
 
 <img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/GUIDE%20for%20his%20likes%20and%20dislikes/Descarga.png?raw=true">
 
+AUN NO DISPONIBLE! MOD EN DESARROLLO
 
 <img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/GUIDE%20for%20his%20likes%20and%20dislikes/Donar.png?raw=true">
 
