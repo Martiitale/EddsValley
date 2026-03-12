@@ -205,7 +205,7 @@
       {
          "LogName":"Marriage Dialogue",
          "Action":"Load",
-         "Target":"Characters/marriageDialogue/Tom",
+         "Target":"Characters/Dialogue/MarriageDialogueTom",
          "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
       },
       {
