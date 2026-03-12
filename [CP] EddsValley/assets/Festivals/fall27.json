@@ -14,20 +14,20 @@
                 {
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters"],
-                    "Value": "Tom 25 61 0 Disfraz",
+                    "Value": "Tom 25 61 2 Disfraz",
                     "Delimiter": "/"
                 },
                 {
             
                     "Operation": "Append",
                     "Target": ["Entries", "Set-Up_additionalCharacters_y2"],
-                    "Value": "Tom 18 24 0",
+                    "Value": "Tom 19 25 2 Disfraz",
                     "Delimiter": "/"
                 },
                 {                    
                     "Operation": "Append",
                     "Target": ["Entries", "MainEvent_additionalCharacters_y2"],
-                    "Value": "Tom 37 66 0",
+                    "Value": "Tom 37 66 2 Disfraz",
                     "Delimiter": "/"
                 }
             ]

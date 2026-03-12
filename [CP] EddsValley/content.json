@@ -140,6 +140,16 @@
          }
       },
       {
+         "LogName":"NPC Sprite Halloween",
+         "Action":"EditImage",
+         "Target":"Characters/Tom",
+         "FromFile":"assets/img/spritesheet-Halloween.png",
+         "When":{
+            "Season":"fall",
+            "Day":"27"
+         }
+      },
+      {
          "LogName":"Spring Map (default)",
          "Action":"EditMap",
          "Target":"Maps/EddsWorld_Eddsworld_Village",
