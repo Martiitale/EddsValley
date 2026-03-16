@@ -1,9 +1,0 @@
-﻿{
-  "Name": "EddsValleyCode",
-  "Author": "Martiitale & DaniPraivet",
-  "Version": "0.1.0",
-  "Description": "Support mod for EddsValley.",
-  "UniqueID": "EddsValley",
-  "EntryDll": "EddsValley.dll",
-  "MinimumApiVersion": "4.0.0"
-}
