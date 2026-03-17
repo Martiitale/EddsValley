@@ -274,6 +274,19 @@
          "Entries":{
             "59021001/f Tom 1250/w sunny/t 2200 2300":"moonlightJellies/12 38/farmer 11 30 2 Tom 13 39 2/skippable/pause 1500/move farmer 0 9 1/pause 500/faceDirection Tom 3/speak Tom \"Oh, buenas, @.$0#$b#Que sorpresa verte aqui.$1\"/pause 800/faceDirection Tom 2/pause 700/faceDirection farmer 2/pause 800/speak Tom \"Te gusta el sonido de las olas?$0\"/pause 500/speak Tom \"A mi si, es un sonido donde me ayuda a olvidar los problemas de casa.$0\"/pause 950/emote Tom 40/pause 800/faceDirection farmer 1/pause 650/emote farmer 8/pause 800/faceDirection Tom 3/pause 700/speak Tom \"Me refiero que en casa... $0\"/pause 1000/speak Tom \"Lo sieto. No puedo, ahora no.$0\"/pause 700/emote Tom 40/pause 700/faceDirection Tom 2 …/speak Tom \"Una cosa, @. Me podrias hacer un favor?$0#$b#Podrias quedarte un rato mas conmigo?$1\"/faceDirection farmer 1/pause 700/speak Tom \"No tenemos porque hablar si no quieres.$0#$b#Solo necesito estar un poco con alguien y quien mejor que tu.$1\"/pause 1400/emote farmer 32/pause 700/faceDirection Tom 2/pause 300/faceDirection farmer 2/pause 1300/speak Tom \"Gracias.$4\"/pause 900/end"
          }
+      },
+      {
+         "Action":"EditData",
+         "Target":"Data/Weddings",
+         "Entries":{
+            "default/Attendees/Tom":{
+               "Id":"Tom",
+               "Condition":null,
+               "Setup":"Tom 29 69 0",
+               "Celebration":null,
+               "IgnoreUnlockConditions":false
+            }
+         }
       }
    ]
 }
