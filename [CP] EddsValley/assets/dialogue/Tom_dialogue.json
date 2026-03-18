@@ -128,7 +128,7 @@
    "spring_Fri":"Edd no para de decirnos que limpiemos las botellas de nuestra casa.$2#$e#Y yo le dije: «Edd, relájate. Mañana no habrá ni una». $h#$e#Esto empezó desde que llegamos aquí. Hace más de 2 meses.$1",
    "summer":"$c 0.9 #Dios, qué ganas de un helado.$1#Buenas, @, ¿qué tal va por tu granja?$2#$b#Perdona por preguntarlo así de la nada, pero...#$q 21/22/211132 Mon_old#¿Qué es lo que más te gusta de este lugar?#$r 21 5 Mon_21#El pueblo.#$r 22 5 Mon_22#Plantar y cuidar los animales.#$r 211132 -10 Mon_211132#Todo aquí es aburrido.#$r 22 10 Mon_22#Quería escapar de mi antigua vida.$1",
    "RejectMermaidPendant_AlreadyAccepted_Engaged":"¿Por qué me das otro? Con uno ya estaba encantado. Así que guárdatelo, no me hace falta.$1#$b#¿No te acuerdas de que ya me diste uno?$4",
-   "RejectMermaidPendant_AlreadyAccepted_Married":"Pero... si ya nos hemos casado. ¿No?...$2#$b#$0",
+   "RejectMermaidPendant_AlreadyAccepted_Married":"Pero... si ya nos hemos casado. ¿No?...$1#$b#$0",
    "RejectMermaidPendant_AlreadyAccepted":"¿Sabes lo que significa esto, no?$1#$b#Claro que estaría toda mi vida contigo, te amo. Eres lo mejor que me ha pasado.$1",
    "RejectMermaidPendant_Divorced":"Volver a estar contigo...$2#$b#Tendré que rechazarlo.$0",
    "RejectMermaidPendant_NeedHouseUpgrade  ":"Necesitaremos una casa más grande, ¿no crees?$1",
