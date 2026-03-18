@@ -69,22 +69,22 @@
       {
          "Action":"Load",
          "Target":"LooseSprites/map",
-         "FromFile":"Minimap-ew/map.png"
+         "FromFile":"minimap/map.png"
       },
       {
          "Action":"Load",
          "Target":"LooseSprites/map_fall",
-         "FromFile":"Minimap-ew/map_fall.png"
+         "FromFile":"minimap/map_fall.png"
       },
       {
          "Action":"Load",
          "Target":"LooseSprites/map_summer",
-         "FromFile":"Minimap-ew/map_summer.png"
+         "FromFile":"minimap/map_summer.png"
       },
       {
          "Action":"Load",
          "Target":"LooseSprites/map_winter",
-         "FromFile":"Minimap-ew/map_winter.png"
+         "FromFile":"minimap/map_winter.png"
       },
       {
          "Action":"EditMap",
@@ -226,51 +226,51 @@
       {
          "LogName":"Festivals Data - Base",
          "Action":"Include",
-         "FromFile":"assets/Festivals/festivals.json"
+         "FromFile":"assets/Ffestivals/festivals.json"
       },
       {
          "LogName":"Festivals Data - Spring 13",
          "Action":"Include",
-         "FromFile":"assets/Festivals/spring13.json"
+         "FromFile":"assets/festivals/spring13.json"
       },
       {
          "LogName":"Festivals Data - Spring 24",
          "Action":"Include",
-         "FromFile":"assets/Festivals/spring24.json"
+         "FromFile":"assets/festivals/spring24.json"
       },
       {
          "LogName":"Festivals Data - Summer 11",
          "Action":"Include",
-         "FromFile":"assets/Festivals/summer11.json"
+         "FromFile":"assets/festivals/summer11.json"
       },
       {
          "LogName":"Festivals Data - Summer 28",
          "Action":"Include",
-         "FromFile":"assets/Festivals/summer28.json"
+         "FromFile":"assets/festivals/summer28.json"
       },
       {
          "LogName":"Festivals Data - Fall 16",
          "Action":"Include",
-         "FromFile":"assets/Festivals/fall16.json"
+         "FromFile":"assets/festivals/fall16.json"
       },
       {
          "LogName":"Festivals Data - Fall 27",
          "Action":"Include",
-         "FromFile":"assets/Festivals/fall27.json"
+         "FromFile":"assets/festivals/fall27.json"
       },
       {
          "LogName":"Festivals Data - Winter 8",
          "Action":"Include",
-         "FromFile":"assets/Festivals/winter8.json"
+         "FromFile":"assets/festivals/winter8.json"
       },
       {
          "LogName":"Festivals Data - Winter 25",
          "Action":"Include",
-         "FromFile":"assets/Festivals/winter25.json"
+         "FromFile":"assets/festivals/winter25.json"
       },
       {
          "Action":"EditData",
-         "Target":"Data/Events/Beach",
+         "Target":"Data/events/Beach",
          "Entries":{
             "59021001/f Tom 1250/w sunny/t 2200 2300":"moonlightJellies/12 38/farmer 11 30 2 Tom 13 39 2/skippable/pause 1500/move farmer 0 9 1/pause 500/faceDirection Tom 3/speak Tom \"Oh, buenas, @.$0#$b#Que sorpresa verte aqui.$1\"/pause 800/faceDirection Tom 2/pause 700/faceDirection farmer 2/pause 800/speak Tom \"Te gusta el sonido de las olas?$0\"/pause 500/speak Tom \"A mi si, es un sonido donde me ayuda a olvidar los problemas de casa.$0\"/pause 950/emote Tom 40/pause 800/faceDirection farmer 1/pause 650/emote farmer 8/pause 800/faceDirection Tom 3/pause 700/speak Tom \"Me refiero que en casa... $0\"/pause 1000/speak Tom \"Lo sieto. No puedo, ahora no.$0\"/pause 700/emote Tom 40/pause 700/faceDirection Tom 2 …/speak Tom \"Una cosa, @. Me podrias hacer un favor?$0#$b#Podrias quedarte un rato mas conmigo?$1\"/faceDirection farmer 1/pause 700/speak Tom \"No tenemos porque hablar si no quieres.$0#$b#Solo necesito estar un poco con alguien y quien mejor que tu.$1\"/pause 1400/emote farmer 32/pause 700/faceDirection Tom 2/pause 300/faceDirection farmer 2/pause 1300/speak Tom \"Gracias.$4\"/pause 900/end"
          }
