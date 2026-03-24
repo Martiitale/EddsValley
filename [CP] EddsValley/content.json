@@ -107,31 +107,23 @@
          ]
       },
       {
-         "LogName":"NPC Manifestation",
+         "LogName":"Tom - NPC Manifestation",
          "Action":"Include",
          "FromFile":"assets/disposition/Disposition.json"
       },
       {
-         "LogName":"NPC Gift Tastes",
-         "Action":"EditData",
-         "Target":"Data/NPCGiftTastes",
-         "Entries":{
-            "Tom":"Vaya. Me has alegrado el día, gracias, @./769 220 611 795 213 575 158 162/Wow, un regalo, gracias./128 117 234 898 -15/Esto... Mejor habértelo guardado.../164 72 154 155 126/Qué asco. No lo quiero volver a ver./800 899 203/Gracias, muy bonito de tu parte./-4/ "
-         }
-      },
-      {
-         "LogName":"Animation Frames",
+         "LogName":"Tom - Animation Frames",
          "Action":"Include",
          "FromFile":"assets/animations/Animations.json"
       },
       {
-         "LogName":"NPC Sprite",
+         "LogName":"Tom - NPC Sprite",
          "Action":"Load",
          "Target":"Characters/Tom",
          "FromFile":"assets/img/tom_spritesheet.png"
       },
       {
-         "LogName":"NPC Sprite Winter",
+         "LogName":"Tom - NPC Sprite Winter",
          "Action":"EditImage",
          "Target":"Characters/Tom",
          "FromFile":"assets/img/tom_spritesheet_winter.png",
@@ -140,7 +132,7 @@
          }
       },
       {
-         "LogName":"NPC Sprite Halloween",
+         "LogName":"Tom - NPC Sprite Halloween",
          "Action":"EditImage",
          "Target":"Characters/Tom",
          "FromFile":"assets/img/tom_spritesheet_halloween.png",
@@ -186,13 +178,13 @@
          }
       },
       {
-         "LogName":"NPC Portrait",
+         "LogName":"Tom - NPC Portrait",
          "Action":"Load",
          "Target":"Portraits/Tom",
          "FromFile":"assets/img/tom_portrait.png"
       },
       {
-         "LogName":"NPC Portrait Winter",
+         "LogName":"Tom - NPC Portrait Winter",
          "Action":"EditImage",
          "Target":"Portraits/Tom",
          "FromFile":"assets/img/tom_portrait_winter.png",
@@ -201,7 +193,7 @@
          }
       },
       {
-         "LogName": "Tom Portrait Beach",
+         "LogName": "Tom - NPC Portrait Beach",
          "Action": "EditImage",
          "Target": "Portraits/Tom",
          "FromFile": "assets/img/tom_portrait_beach.png",
@@ -212,32 +204,32 @@
          }
       },
       {
-         "LogName":"Schedule",
+         "LogName":"Tom - Schedule",
          "Action":"Load",
          "Target":"Characters/schedules/Tom",
          "FromFile":"assets/schedules/schedule.json"
       },
       {
-         "LogName":"Dialogue",
+         "LogName":"Tom - Dialogue",
          "Action":"Load",
          "Target":"Characters/dialogue/Tom",
          "FromFile":"assets/dialogue/Tom_dialogue.json"
       },
       {
-         "LogName":"Marriage Dialogue",
+         "LogName":"Tom - Marriage Dialogue",
          "Action":"Load",
          "Target":"Characters/Dialogue/MarriageDialogueTom",
          "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
       },
       {
-      "LogName": "Movie Reactions",
+      "LogName": "Tom - Movie Reactions",
       "Action": "Include",
       "FromFile": "assets/dialogue/Tom_movie.json"
       },
       {
          "LogName":"Festivals Data - Base",
          "Action":"Include",
-         "FromFile":"assets/Ffestivals/festivals.json"
+         "FromFile":"assets/festivals/festivals.json"
       },
       {
          "LogName":"Festivals Data - Spring 13",
@@ -284,6 +276,14 @@
          "Target":"Data/events/Beach",
          "Entries":{
             "59021001/f Tom 1250/w sunny/t 2200 2300":"moonlightJellies/12 38/farmer 11 30 2 Tom 13 39 2/skippable/pause 1500/move farmer 0 9 1/pause 500/faceDirection Tom 3/speak Tom \"Oh, buenas, @.$0#$b#Que sorpresa verte aqui.$1\"/pause 800/faceDirection Tom 2/pause 700/faceDirection farmer 2/pause 800/speak Tom \"Te gusta el sonido de las olas?$0\"/pause 500/speak Tom \"A mi si, es un sonido donde me ayuda a olvidar los problemas de casa.$0\"/pause 950/emote Tom 40/pause 800/faceDirection farmer 1/pause 650/emote farmer 8/pause 800/faceDirection Tom 3/pause 700/speak Tom \"Me refiero que en casa... $0\"/pause 1000/speak Tom \"Lo sieto. No puedo, ahora no.$0\"/pause 700/emote Tom 40/pause 700/faceDirection Tom 2 …/speak Tom \"Una cosa, @. Me podrias hacer un favor?$0#$b#Podrias quedarte un rato mas conmigo?$1\"/faceDirection farmer 1/pause 700/speak Tom \"No tenemos porque hablar si no quieres.$0#$b#Solo necesito estar un poco con alguien y quien mejor que tu.$1\"/pause 1400/emote farmer 32/pause 700/faceDirection Tom 2/pause 300/faceDirection farmer 2/pause 1300/speak Tom \"Gracias.$4\"/pause 900/end"
+         }
+      },
+      {
+         "LogName":"NPC Gift Tastes",
+         "Action":"EditData",
+         "Target":"Data/NPCGiftTastes",
+         "Entries":{
+            "Tom":"Vaya. Me has alegrado el día, gracias, @./769 220 611 795 213 575 158 162/Wow, un regalo, gracias./128 117 234 898 -15/Esto... Mejor habértelo guardado.../164 72 154 155 126/Qué asco. No lo quiero volver a ver./800 899 203/Gracias, muy bonito de tu parte./-4/ "
          }
       },
       {
