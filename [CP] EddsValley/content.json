@@ -107,12 +107,12 @@
          ]
       },
       {
-         "LogName":"Tom - NPC Manifestation",
+         "LogName":"NPC Manifestation",
          "Action":"Include",
          "FromFile":"assets/disposition/Disposition.json"
       },
       {
-         "LogName":"Tom - Animation Frames",
+         "LogName":"Animation Frames",
          "Action":"Include",
          "FromFile":"assets/animations/Animations.json"
       },
@@ -140,6 +140,129 @@
             "Season":"fall",
             "Day":"27"
          }
+      },
+            {
+         "LogName":"Tom - NPC Portrait",
+         "Action":"Load",
+         "Target":"Portraits/Tom",
+         "FromFile":"assets/img/tom_portrait.png"
+      },
+      {
+         "LogName":"Tom - NPC Portrait Winter",
+         "Action":"EditImage",
+         "Target":"Portraits/Tom",
+         "FromFile":"assets/img/tom_portrait_winter.png",
+         "When":{
+            "Season":"winter"
+         }
+      },
+      {
+         "LogName": "Tom - NPC Portrait Beach",
+         "Action": "EditImage",
+         "Target": "Portraits/Tom",
+         "FromFile": "assets/img/tom_portrait_beach.png",
+         "When": {
+            "Location": "Beach",
+            "Season": "summer",
+            "Day": "24"
+         }
+      },
+      {
+         "LogName":"Tom - Schedule",
+         "Action":"Load",
+         "Target":"Characters/schedules/Tom",
+         "FromFile":"assets/schedules/tom_schedule.json"
+      },
+      {
+         "LogName":"Tom - Dialogue",
+         "Action":"Load",
+         "Target":"Characters/dialogue/Tom",
+         "FromFile":"assets/dialogue/Tom_dialogue.json"
+      },
+      {
+         "LogName":"Tom - Marriage Dialogue",
+         "Action":"Load",
+         "Target":"Characters/Dialogue/MarriageDialogueTom",
+         "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
+      },
+      {
+      "LogName": "Tom - Movie Reactions",
+      "Action": "Include",
+      "FromFile": "assets/dialogue/Tom_movie.json"
+      },
+      {
+         "LogName":"Tord - NPC Sprite",
+         "Action":"Load",
+         "Target":"Characters/Tord",
+         "FromFile":"assets/img/tord_spritesheet.png"
+      },
+      {
+         "LogName":"Tord - NPC Sprite Winter",
+         "Action":"EditImage",
+         "Target":"Characters/Tord",
+         "FromFile":"assets/img/tord_spritesheet_winter.png",
+         "When":{
+            "Season":"winter"
+         }
+      },
+      {
+         "LogName":"Tord - NPC Sprite Halloween",
+         "Action":"EditImage",
+         "Target":"Characters/Tord",
+         "FromFile":"assets/img/tord_spritesheet_halloween.png",
+         "When":{
+            "Season":"fall",
+            "Day":"27"
+         }
+      },
+            {
+         "LogName":"Tord - NPC Portrait",
+         "Action":"Load",
+         "Target":"Portraits/Tord",
+         "FromFile":"assets/img/tord_portrait.png"
+      },
+      {
+         "LogName":"Tord - NPC Portrait Winter",
+         "Action":"EditImage",
+         "Target":"Portraits/Tord",
+         "FromFile":"assets/img/tord_portrait_winter.png",
+         "When":{
+            "Season":"winter"
+         }
+      },
+      {
+         "LogName": "Tord - NPC Portrait Beach",
+         "Action": "EditImage",
+         "Target": "Portraits/Tord",
+         "FromFile": "assets/img/tord_portrait_beach.png",
+         "When": {
+            "Location": "Beach",
+            "Season": "summer",
+            "Day": "24"
+         }
+      },
+      {
+         "LogName":"Tord - Schedule",
+         "Action":"Load",
+         "Target":"Characters/schedules/Tord",
+         "FromFile":"assets/schedules/tord_schedule.json"
+      },
+      {
+         "LogName":"Tord - Dialogue",
+         "Action":"Load",
+         "Target":"Characters/dialogue/Tord",
+         "FromFile":"assets/dialogue/Tord_dialogue.json"
+      },
+      {
+         "LogName":"Tord - Marriage Dialogue",
+         "Action":"Load",
+         "Target":"Characters/Dialogue/MarriageDialogueTord",
+         "FromFile":"assets/dialogue/Tord_marriageDialogue.json"
+      },
+      {
+      "LogName": "Tord - Movie Reactions",
+      "Action": "Include",
+      "FromFile": "assets/dialogue/Tord_movie.json"
       },
       {
          "LogName":"Spring Map (default)",
@@ -176,55 +299,6 @@
          "When":{
             "Season":"winter"
          }
-      },
-      {
-         "LogName":"Tom - NPC Portrait",
-         "Action":"Load",
-         "Target":"Portraits/Tom",
-         "FromFile":"assets/img/tom_portrait.png"
-      },
-      {
-         "LogName":"Tom - NPC Portrait Winter",
-         "Action":"EditImage",
-         "Target":"Portraits/Tom",
-         "FromFile":"assets/img/tom_portrait_winter.png",
-         "When":{
-            "Season":"winter"
-         }
-      },
-      {
-         "LogName": "Tom - NPC Portrait Beach",
-         "Action": "EditImage",
-         "Target": "Portraits/Tom",
-         "FromFile": "assets/img/tom_portrait_beach.png",
-         "When": {
-            "Location": "Beach",
-            "Season": "summer",
-            "Day": "24"
-         }
-      },
-      {
-         "LogName":"Tom - Schedule",
-         "Action":"Load",
-         "Target":"Characters/schedules/Tom",
-         "FromFile":"assets/schedules/schedule.json"
-      },
-      {
-         "LogName":"Tom - Dialogue",
-         "Action":"Load",
-         "Target":"Characters/dialogue/Tom",
-         "FromFile":"assets/dialogue/Tom_dialogue.json"
-      },
-      {
-         "LogName":"Tom - Marriage Dialogue",
-         "Action":"Load",
-         "Target":"Characters/Dialogue/MarriageDialogueTom",
-         "FromFile":"assets/dialogue/Tom_marriageDialogue.json"
-      },
-      {
-      "LogName": "Tom - Movie Reactions",
-      "Action": "Include",
-      "FromFile": "assets/dialogue/Tom_movie.json"
       },
       {
          "LogName":"Festivals Data - Base",
@@ -294,6 +368,13 @@
                "Id":"Tom",
                "Condition":null,
                "Setup":"Tom 29 69 0",
+               "Celebration":null,
+               "IgnoreUnlockConditions":false
+            },
+            "default/Attendees/Tord":{
+               "Id":"Tord",
+               "Condition":null,
+               "Setup":"Tord 29 69 0",
                "Celebration":null,
                "IgnoreUnlockConditions":false
             }
