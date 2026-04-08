@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/GUIDE%20for%20his%20likes%20and%20dislikes/logo.png?raw=true">
+  <img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/assets-img/logo.png?raw=true">
 </p>
 
 <p align="center">
@@ -7,13 +7,13 @@ Mod de Stardew Valley que introduce a los personajes de la web-serie Eddsworld; 
 </p>
 
 
-<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/GUIDE%20for%20his%20likes%20and%20dislikes/Autores.png?raw=true">
+<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/assets-img/Autores.png?raw=true">
 
 - [@Martiitale](https://martiitale.carrd.co/)
 - [@DaniPraivet](https://github.com/DaniPraivet)
 
 
-<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/GUIDE%20for%20his%20likes%20and%20dislikes/Instalacion.png?raw=true">
+<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/assets-img/Instalacion.png?raw=true">
 
 
 1. Descargar [Smapi](https://smapi.io/) (Ver instrucciones de instalación.)  
@@ -22,11 +22,12 @@ Mod de Stardew Valley que introduce a los personajes de la web-serie Eddsworld; 
 4. Descomprimir EddsValley.zip en la carpeta de mods creada por Smapi  
 
 
-<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/GUIDE%20for%20his%20likes%20and%20dislikes/Descarga.png?raw=true">
+<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/assets-img/Descarga.png?raw=true">
 
-AUN NO DISPONIBLE! MOD EN DESARROLLO
+> [!WARNING]
+> AUN NO DISPONIBLE! MOD EN DESARROLLO
 
-<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/GUIDE%20for%20his%20likes%20and%20dislikes/Donar.png?raw=true">
+<img src="https://github.com/Martiitale/EddsValley/blob/main/%5BCP%5D%20EddsValley/assets-img/Donar.png?raw=true">
 
 
 https://ko-fi.com/martiitale
